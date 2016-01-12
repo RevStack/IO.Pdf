@@ -1,0 +1,9 @@
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.IO.Pdf\RevStack.IO.Pdf\bin\Debug\RevStack.IO.Pdf.dll
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.IO.Pdf\RevStack.IO.Pdf\bin\Debug\RevStack.IO.Pdf.pdb
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.IO.Pdf\RevStack.IO.Pdf\bin\Debug\RevStack.IO.dll
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.IO.Pdf\RevStack.IO.Pdf\bin\Debug\RevStack.Pattern.dll
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.IO.Pdf\RevStack.IO.Pdf\bin\Debug\RevStack.IO.pdb
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.IO.Pdf\RevStack.IO.Pdf\bin\Debug\RevStack.Pattern.pdb
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.IO.Pdf\RevStack.IO.Pdf\obj\Debug\RevStack.IO.Pdf.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.IO.Pdf\RevStack.IO.Pdf\obj\Debug\RevStack.IO.Pdf.dll
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.IO.Pdf\RevStack.IO.Pdf\obj\Debug\RevStack.IO.Pdf.pdb
