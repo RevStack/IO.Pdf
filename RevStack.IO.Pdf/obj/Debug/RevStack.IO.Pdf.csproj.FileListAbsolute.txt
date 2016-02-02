@@ -7,3 +7,12 @@
 \\psf\Home\Documents\Development\mono\RevStack\RevStack.IO.Pdf\RevStack.IO.Pdf\obj\Debug\RevStack.IO.Pdf.csprojResolveAssemblyReference.cache
 \\psf\Home\Documents\Development\mono\RevStack\RevStack.IO.Pdf\RevStack.IO.Pdf\obj\Debug\RevStack.IO.Pdf.dll
 \\psf\Home\Documents\Development\mono\RevStack\RevStack.IO.Pdf\RevStack.IO.Pdf\obj\Debug\RevStack.IO.Pdf.pdb
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.IO.Pdf\RevStack.IO.Pdf\bin\Debug\RevStack.IO.Pdf.dll
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.IO.Pdf\RevStack.IO.Pdf\bin\Debug\RevStack.IO.Pdf.pdb
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.IO.Pdf\RevStack.IO.Pdf\bin\Debug\RevStack.IO.dll
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.IO.Pdf\RevStack.IO.Pdf\bin\Debug\RevStack.Pattern.dll
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.IO.Pdf\RevStack.IO.Pdf\bin\Debug\RevStack.IO.pdb
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.IO.Pdf\RevStack.IO.Pdf\bin\Debug\RevStack.Pattern.pdb
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.IO.Pdf\RevStack.IO.Pdf\obj\Debug\RevStack.IO.Pdf.dll
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.IO.Pdf\RevStack.IO.Pdf\obj\Debug\RevStack.IO.Pdf.pdb
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.IO.Pdf\RevStack.IO.Pdf\obj\Debug\RevStack.IO.Pdf.csprojResolveAssemblyReference.cache
