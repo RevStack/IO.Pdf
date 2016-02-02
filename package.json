@@ -2,7 +2,7 @@
   "name": "RevStack.IO.Pdf",
   "version": "1.0.1",
   "description": "Html to Pdf implementation",
-  "main": "RevStack.IO.Pdf.sin",
+  "main": "RevStack.IO.Pdf.sln",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
