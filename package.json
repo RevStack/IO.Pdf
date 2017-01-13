@@ -1,7 +1,7 @@
 {
   "name": "RevStack.IO.Pdf",
   "version": "1.0.2",
-  "description": "Html to Pdf implementation",
+  "description": "Html to Pdf implementation using PhantomJS backend service",
   "main": "RevStack.IO.Pdf.sln",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

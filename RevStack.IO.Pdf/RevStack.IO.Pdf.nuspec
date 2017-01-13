@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>RevStack.IO.Pdf</id>
+    <version>1.0.2</version>
+    <title>RevStack.IO.Pdf</title>
+    <authors>Scott Francis, MIS Interactive</authors>
+    <owners>D. Sheets, S. Francis</owners>
+    <licenseUrl>https://github.com/RevStack/IO.Pdf/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/RevStack/IO.Pdf.git</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Html to Pdf implementation using PhantomJS backend service</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>RevStack HTML PDF PhantomJS</tags>
+  </metadata>
+</package>
