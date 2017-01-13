@@ -14,3 +14,10 @@
 \\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.IO.Pdf\RevStack.IO.Pdf\bin\Release\RevStack.Pattern.pdb
 \\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.IO.Pdf\RevStack.IO.Pdf\obj\Release\RevStack.IO.Pdf.dll
 \\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.IO.Pdf\RevStack.IO.Pdf\obj\Release\RevStack.IO.Pdf.pdb
+Z:\Documents\Development\mono\RevStack\updated\RevStack.IO.Pdf\RevStack.IO.Pdf\bin\Release\RevStack.IO.Pdf.dll
+Z:\Documents\Development\mono\RevStack\updated\RevStack.IO.Pdf\RevStack.IO.Pdf\bin\Release\RevStack.IO.Pdf.pdb
+Z:\Documents\Development\mono\RevStack\updated\RevStack.IO.Pdf\RevStack.IO.Pdf\bin\Release\RevStack.IO.dll
+Z:\Documents\Development\mono\RevStack\updated\RevStack.IO.Pdf\RevStack.IO.Pdf\bin\Release\RevStack.Pattern.dll
+Z:\Documents\Development\mono\RevStack\updated\RevStack.IO.Pdf\RevStack.IO.Pdf\obj\Release\RevStack.IO.Pdf.csprojResolveAssemblyReference.cache
+Z:\Documents\Development\mono\RevStack\updated\RevStack.IO.Pdf\RevStack.IO.Pdf\obj\Release\RevStack.IO.Pdf.dll
+Z:\Documents\Development\mono\RevStack\updated\RevStack.IO.Pdf\RevStack.IO.Pdf\obj\Release\RevStack.IO.Pdf.pdb
